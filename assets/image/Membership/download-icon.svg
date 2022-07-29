@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.709" height="16.395" viewBox="0 0 16.709 16.395">
+  <g id="download-icon" transform="translate(-757.469 -1221.96)">
+    <g id="right-arrow" transform="translate(1463.806 -11.927) rotate(90)">
+      <path id="Icon_open-arrow-left" data-name="Icon open-arrow-left" d="M4.9,0,0,4.131,4.9,8.163V4.9h5.883V3.265H4.9Z" transform="translate(1245.321 702.053) rotate(180)" fill="#bf1116"/>
+      <path id="Icon_open-arrow-left_-_Outline" data-name="Icon open-arrow-left - Outline" d="M6.66,0V4.057h5.849V7.065H6.66V11.1L0,5.616Zm4.474,5.432H5.284V2.959L2.148,5.6,5.284,8.186V5.69h5.849Z" transform="translate(1246.396 703.532) rotate(180)" fill="#bf1116"/>
+    </g>
+    <path id="Icon_open-data-transfer-download" data-name="Icon open-data-transfer-download" d="M0,14.62v2.089H16.709V14.62Z" transform="translate(757.469 1221.646)" fill="#bf1116"/>
+  </g>
+</svg>
